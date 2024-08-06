@@ -1,5 +1,5 @@
-# AI CASE STUDY
-![
+# AI CASE STUDY :computer:  	:information_source:  :robot: "DATA ROBOT"
+
 ## Company is the leader in Value-Driven AI – a unique and collaborative approach to Artificial Intelligence
 
 * **Name of company**
