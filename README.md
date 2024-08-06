@@ -1,14 +1,14 @@
 # AI CASE STUDY :computer:  	:information_source:  :robot: "DATA ROBOT"
 
 ## Company is the leader in Value-Driven AI – a unique and collaborative approach to Artificial Intelligence
-
+(https://archive.org/details/robot-jpg)
 * **Name of company**
 Data Robot
 * **When was the company incorporated?**
-
+2012
 * **Who are the founders of the company?**
 DataRobot was founded in 2012 in Boston by Jeremy Achin and Tom de Godoy.
-[https://thebrandhopper.com/wp-content/uploads/2023/07/datarobot-founders-300x200.jpg}
+4455
 * **How did the idea for the company (or project) come about?**
 It was crafted with the intention that it would  make machine learning accessible to all businesses. The company was created in response to the global shortage of data scientists, which is a major issue in adopting AI and ML technologies. DataRobot's AutoML tool allows data scientists, ML engineers, and analysts to build predictive models faster, even if they don't have prior ML knowledge. 
 * **How is the company funded? How much funding have they received?**
