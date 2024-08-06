@@ -1,7 +1,7 @@
 # AI CASE STUDY :computer:  	:information_source:  :robot: "DATA ROBOT"
 
 ## Company is the leader in Value-Driven AI – a unique and collaborative approach to Artificial Intelligence
-(https://archive.org/details/robot-jpg)
+![This is an alt text for an image](https://archive.org/download/robot-jpg/Robot%20JPG.jpg)
 * **Name of company**
 Data Robot
 * **When was the company incorporated?**
