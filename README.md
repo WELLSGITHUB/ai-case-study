@@ -60,7 +60,7 @@ Data Bricks, DataiKu, Alteryx
 
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 Precision and recall are two important performance metrics used to evaluate the effectiveness of machine learning models, especially in binary classification tasks. Precision measures the accuracy of the positive predictions made by the model. 
-* H**ow is your company performing relative to competitors in the same field?**
+* **How is your company performing relative to competitors in the same field?**
 
 ## Recommendations
 
