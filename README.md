@@ -61,14 +61,14 @@ Data Bricks, DataiKu, Alteryx
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 Precision and recall are two important performance metrics used to evaluate the effectiveness of machine learning models, especially in binary classification tasks. Precision measures the accuracy of the positive predictions made by the model. 
 * **How is your company performing relative to competitors in the same field?**
-
+DataRobot Ranked #1 for Governance Use Case by Gartner®: Inside Our Trusted AI Governance Framework
 ## Recommendations
 
 * **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 RFID technology integration in their software platforms
 * **Why do you think that offering this product or service would benefit the company?**
-It would allow them to be included in the area of asset management and data tracking, exponentiating their gamut for application thresholds
+It would allow them to be included in the area of asset management and data tracking, exponentiating their gamut for application thresholds 
 * **What technologies would this additional product or service utilize?**
-Power transmission, Utility Management, Value tracking for depreiable items on fast track finance concerns
+Power transmission, Utility Management, Value tracking for depreciable items on fast track finance concerns
 * **Why are these technologies appropriate for your solution?**
-* They govern the well being of us as a human, and as a commnity at whole
+* They govern the well being of us as a human race, and as a community at whole, saving us money, time and enabling us to "git" :laughing: along better :handshake:
