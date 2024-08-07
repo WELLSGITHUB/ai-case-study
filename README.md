@@ -54,23 +54,21 @@ DataRobot automates the entire machine learning process, from data ingestion to 
 * **What field is the company in?**
 Teh company has a strong focus KN Data Science and Machine Learnign in the fields of Healthcare, Manufacturing, Retail, Finance, Web Service Predictions, and real life business applications for AI tools
 * **What have been the major trends and innovations of this field over the last 5&ndash;10 years?**
-Solutions for professionals in the medical field that have been difficult process due to lagging programs and inputs that would be lost in translation, rendering new, faster solutions in the fields they serve for better custeomr satisacation and life saving critical decisions in seconds. 
+Solutions for professionals in the medical field that have been difficult process due to lagging programs and inputs that would be lost in translation, rendering new, faster solutions in the fields they serve for life saving critical decisions in seconds. 
 * **What are the other major companies in this field?**
+Data Bricks, DataiKu, Alteryx
 
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+* **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
+Precision and recall are two important performance metrics used to evaluate the effectiveness of machine learning models, especially in binary classification tasks. Precision measures the accuracy of the positive predictions made by the model. 
+* H**ow is your company performing relative to competitors in the same field?**
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+RFID technology integration in their software platforms
+* **Why do you think that offering this product or service would benefit the company?**
+It would allow them to be included in the area of asset management and data tracking, exponentiating their gamut for application thresholds
+* **What technologies would this additional product or service utilize?**
+Power transmission, Utility Management, Value tracking for depreiable items on fast track finance concerns
+* **Why are these technologies appropriate for your solution?**
+* They govern the well being of us as a human, and as a commnity at whole
